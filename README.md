@@ -11,7 +11,7 @@ I'm College Student.
 
 ---
 
-#### skill 🔧
+#### skill ✨
 <img src="https://img.shields.io/badge/-python-blue?style=python&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-react-color?&logo=React&logoColor=black&color=61DAFB"/>
 
 
