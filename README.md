@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-python-orange?style=python&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/-dldnjscks133@gmail.com-orange?logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/-wonchan%20Lee-darkblue?logo=Linkedin&logoColor=white"/>
 
 --- 
 
