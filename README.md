@@ -1,5 +1,7 @@
 ### Hi there 👋 
-I'm College Student.  I learn about ML using Python and Scikit-learn  sometimes I develop Web using React
+I'm College Student.  
+I learn about ML using Python and Scikit-learn  
+sometimes I develop Web using React
 
 ---
 
