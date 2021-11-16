@@ -1,4 +1,4 @@
-📫 How to reach me 
+### How to reach me 📫
 
 <img src="https://img.shields.io/badge/-dldnjscks133@gmail.com-orange?logo=Gmail&logoColor=white&link=https://www.google.com"/> <img src="https://img.shields.io/badge/-wonchan%20Lee-darkblue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonchan-lee-0224121b2/"/>
 
@@ -11,7 +11,7 @@ I'm College Student.
 
 ---
 
-#### skill
+#### skill 🔧
 <img src="https://img.shields.io/badge/-python-blue?style=python&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-react-color?&logo=React&logoColor=black&color=61DAFB"/>
 
 
