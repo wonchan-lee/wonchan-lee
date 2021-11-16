@@ -2,6 +2,7 @@
 <p>
 <a href="mailto:dldnjscks133@gmail.com"><img src="https://img.shields.io/badge/-dldnjscks133@gmail.com-orange?logo=Gmail&logoColor=white/></a> <a href="https://www.linkedin.com/in/wonchan-lee-0224121b2/"><img src="https://img.shields.io/badge/-wonchan%20Lee-darkblue?logo=Linkedin&logoColor=white/></a>
 </p>
+
 --- 
 
 ### Hi there 👋 
