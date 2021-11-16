@@ -1,10 +1,10 @@
-<img src="https://img.shields.io/badge/-dldnjscks133@gmail.com-orange?logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/-wonchan%20Lee-darkblue?logo=Linkedin&logoColor=white"/>
+- 📫 How to reach me: <img src="https://img.shields.io/badge/-dldnjscks133@gmail.com-orange?logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/-wonchan%20Lee-darkblue?logo=Linkedin&logoColor=white"/>
 
 --- 
 
 ### Hi there 👋 
 I'm College Student.  
-I learn about ML using Python and Scikit-learn  
+- 🌱 I’m currently learning ML using Python and Scikit-learn  
 sometimes I develop Web using React
 
 ---
