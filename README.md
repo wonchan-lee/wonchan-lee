@@ -13,7 +13,7 @@ I'm College Student.
 
 ---
 
-#### kill 🎓
+#### Skill 🎓
 <img src="https://img.shields.io/badge/-python-blue?style=python&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-react-color?&logo=React&logoColor=black&color=61DAFB"/> <img src="https://img.shields.io/badge/-Redux-color?message=React&logo=Redux&logoColor=white&color=764ABC"/> <img src="https://img.shields.io/badge/-scikit_learn-color?message=React&logo=scikit-learn&logoColor=white&color=F7931E"/>
 
 ---
