@@ -1,7 +1,8 @@
 ### Hi there 👋 
-#### I'm College Student. I learn about ML using Python and Scikit-learn
-#### sometimes I develop Web using React
+I'm College Student. I learn about ML using Python and Scikit-learn
+sometimes I develop Web using React
 
+---
 
 #### skill
 <img src="https://img.shields.io/badge/-python-blue?style=python&logo=python&logoColor=white"/>
